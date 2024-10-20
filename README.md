@@ -17,7 +17,8 @@ This was made to make possible pi pico debugging + get rid of RGB/GRB issues
 - *= CMD is not connected
 - =* D0 is not connected
 - == CLK is not connected
- 
+
+- *=* eMMC is not connected
 - =** eMMC init failure during glitch process
 - =*= CPU never reach BCT check, should not happen
 - ==* CPU always reach BCT check (no glitch reaction, check mosfet)
